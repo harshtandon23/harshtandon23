@@ -33,10 +33,8 @@ When I’m not studying/working 📚, I love to travel ✈️, explore the world
 [<img align="left" alt="Harsh Tandon | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Harsh Tandon | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Harsh Tandon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Harsh Tandon | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [linkedin]: https://www.linkedin.com/in/tandon-harsh/
-[instagram]: https://www.instagram.com/harsh_tandon23/
-[facebook]: https://www.facebook.com/harsh.tandon3
 [gmail]: mailto:harsh.tandon23@gmail.com
 [github]: https://github.com/harshtandon23
+[instagram]: https://www.instagram.com/harsh_tandon23/
