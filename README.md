@@ -1,5 +1,5 @@
 # Hi, I'm Harsh 👋🏻 👨🏻‍💻
-<img src="HarshTandon_header.png" alt="banner that says Harsh Tandon - Data Scientist, converting data into value alongside a cartoon illustration of Harsh">
+<img src="https://raw.githubusercontent.com/harshtandon23/harshtandon23/master/HarshTandon_header.png" alt="banner that says Harsh Tandon - Data Scientist, converting data into value alongside a cartoon illustration of Harsh">
 
  
 I’m a budding Data Scientist adept in collecting, analyzing, and transforming data into insights. My background in Information Technology and Data Analytics provides me with extensive analytical skills to wrestle with large & complex data. I am currently pursuing a Master of Science degree in Business Analytics at Santa Clara University and my passion for Data Science allows me to provide data-driven, action-oriented solutions to challenging business problems. 
