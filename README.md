@@ -38,5 +38,5 @@ When I’m not studying/working 📚, I love to travel ✈️, explore the world
 [linkedin]: https://www.linkedin.com/in/tandon-harsh/
 [instagram]: https://www.instagram.com/harsh_tandon23/
 [facebook]: https://www.facebook.com/harsh.tandon3
-[gmail]: harsh.tandon23@gmail.com
+[gmail]: mailto:harsh.tandon23@gmail.com
 [github]: https://github.com/harshtandon23
